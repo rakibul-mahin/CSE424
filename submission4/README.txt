@@ -8,6 +8,7 @@ Paper title:
 Classifying Corn Leaf Diseases using Ensemble Learning with Dropout and Stochastic Depth Based Convolutional Networks
 
 Paper PDF link:
+https://github.com/rakibul-mahin/CSE424/blob/main/submission4/Corn_leaf_disease_with_ENSEMBLE_LEARNING.pdf
 
 Paper submission ID: (received) from conference/workshop
 ML041
